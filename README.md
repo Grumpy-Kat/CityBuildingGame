@@ -3,7 +3,7 @@ Simple city building game, inspired by SimCity and written in SDL and C++
 
 ---
 
-List of Future Additions:
+List of Future Additions:\n
 -Fix issues with power and fire maps (does not calculate correctly when deleting power sources and fire sources because does consider other nearby sources)
 -Give fire station use (stops fire 7/10 in coverage zone)
 -Fires (ex: affected by fire station coverage and fire budget)
