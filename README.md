@@ -1,5 +1,5 @@
 # CityBuildingGame
-Simple city building game, inspired by SimCity and written in SDL and C++
+Simple Simcity-inspired city building game, written in SDL and C++.
 
 ---
 
